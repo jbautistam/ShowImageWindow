@@ -12,7 +12,7 @@ caían si las cerrabas), ojos que perseguían el cursor. No tenían ninguna util
 
 Así que, como estaba buscando algo para entretenerme el fin de semana, hice mi propia versión con WPF. Como las ovejas ya estaban muy vistas, elegí a los Lemmings:
 
-![Lemmings](https://twitter.com/i/status/1406227984357462024 "Lemmings")
+https://twitter.com/i/status/1406227984357462024
 
 Como véis la aplicación únicamente muestra un montón de Lemmings cayendo de la parte superior de la ventana, moviéndose por la barra de inicio de izquierda a derecha
 y cavando de vez en cuando. Es aleatorio, no esperéis el juego completo.

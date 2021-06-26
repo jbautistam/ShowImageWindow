@@ -89,5 +89,3 @@ Ese motor, en realidad sólo nos pone la base para nuestros personajes. Los Lemm
 * `LemmingsBrain.cs:` el objeto derivado de `BrainObject` encargado de mostrar un nuevo Lemming cada cierto tiempo (en este caso
 no más de cinco al mismo tiempo),
 * `LemmingsCharacter.cs:` el objeto derivado de `VisualGameObject` encargado de los movimientos.
-
-Y eso es todo, como siempre, el código fuente lo tenéis en 

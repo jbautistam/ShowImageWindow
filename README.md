@@ -3,8 +3,7 @@ Quizá lo más difícil de esta aplicación, haya sido buscarle un título a és
 El caso es que estaba viendo la presentación de [Scott Hanselman](https://www.hanselman.com/) de la [MSbuild](https://www.youtube.com/watch?v=EWYYgEkGJfs) 
 (sí lo sé llevo un poco atrasadas las conferencias online) y sobre el minuto 26 aparece en la pantalla eSheep.
 
-<iframe width="1280" height="720" src="https://youtu.be/EWYYgEkGJfs?t=1593" title="YouTube video player" 
-	frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/EWYYgEkGJfs?t=1593
 
 [eSheep](https://github.com/Adrianotiger/desktopPet) es una aplicación que, como podéis ver, muestra el gráfico de una oveja caminando por la pantalla.
 

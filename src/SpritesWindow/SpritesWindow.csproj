@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Lemming.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Libraries\CharactersLemmings\CharactersLemmings.csproj" />
+    <ProjectReference Include="..\Libraries\CharactersSpaceShips\CharactersSpaceShips.csproj" />
+    <ProjectReference Include="..\Libraries\SpritesEngine\SpritesEngine.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Lemming.png" />
+  </ItemGroup>
+
+</Project>

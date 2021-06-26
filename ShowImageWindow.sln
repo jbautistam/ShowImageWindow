@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51F80A2D-22EC-409A-ADC6-64469EDC3087}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpritesWindow", "src\SpritesWindow\SpritesWindow.csproj", "{1C7D5FA2-29D4-4F34-A750-D34070492B81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpritesEngine", "src\Libraries\SpritesEngine\SpritesEngine.csproj", "{E7C9F642-E4E7-4B2E-BCDD-09C23EC7FD42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharactersLemmings", "src\Libraries\CharactersLemmings\CharactersLemmings.csproj", "{EF013E72-0AC1-4B2A-BB99-77D632709589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharactersSpaceShips", "src\Libraries\CharactersSpaceShips\CharactersSpaceShips.csproj", "{0669A529-FB05-4506-9D8E-5ACAE55F0FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7D5FA2-29D4-4F34-A750-D34070492B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7D5FA2-29D4-4F34-A750-D34070492B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7D5FA2-29D4-4F34-A750-D34070492B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7D5FA2-29D4-4F34-A750-D34070492B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C9F642-E4E7-4B2E-BCDD-09C23EC7FD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C9F642-E4E7-4B2E-BCDD-09C23EC7FD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C9F642-E4E7-4B2E-BCDD-09C23EC7FD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C9F642-E4E7-4B2E-BCDD-09C23EC7FD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF013E72-0AC1-4B2A-BB99-77D632709589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF013E72-0AC1-4B2A-BB99-77D632709589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF013E72-0AC1-4B2A-BB99-77D632709589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF013E72-0AC1-4B2A-BB99-77D632709589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0669A529-FB05-4506-9D8E-5ACAE55F0FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0669A529-FB05-4506-9D8E-5ACAE55F0FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0669A529-FB05-4506-9D8E-5ACAE55F0FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0669A529-FB05-4506-9D8E-5ACAE55F0FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85AFC449-B2F5-497F-9B73-52CFD4C00406}
+	EndGlobalSection
+EndGlobal
